@@ -70,7 +70,7 @@ function App() {
     <div className="row">
       <div className="col-lg-4">
 
-        <img src={logo}  className="bd-placeholder-img rounded-circle" width="140" height="140"/>
+        <img src={logo} alt="logo" className="bd-placeholder-img rounded-circle" width="140" height="140"/>
 
         <h2 className="mt-5">Crossword Slide Puzzle (4 words 1 pic) 2020</h2>
 
@@ -83,7 +83,7 @@ The player who first finds all the hidden words wins the game.
         <p><a className="btn btn-primary mt-2" href="https://play.google.com/store/apps/details?id=com.A2Z.CrossWord" role="button">Download Links &raquo;</a></p>
       </div>
       <div className="col-lg-4 ">
-      <img src={logo2}  className="bd-placeholder-img rounded-circle" width="140" height="140"/>
+      <img src={logo2}  className="bd-placeholder-img rounded-circle" alt="logo1" width="140" height="140"/>
 
         <h2 className="mt-5">Clever word games (3 games in 1)</h2>
 
@@ -92,7 +92,7 @@ The player who first finds all the hidden words wins the game.
         <p><a className="btn btn-primary mt-2" href="https://play.google.com/store/apps/details?id=com.A2Z.Words3in1" role="button">Download Links &raquo;</a></p>
       </div>
       <div className="col-lg-4 " >
-         <img src={logo1}  className="bd-placeholder-img rounded-circle" width="140" height="140"/>
+         <img src={logo1}  className="bd-placeholder-img rounded-circle" alt="logo2" width="140" height="140"/>
 
         <h2 className="mt-5">أربع (4) صور كلمة واحدة - arabic 4 pics 1 word</h2>
 
